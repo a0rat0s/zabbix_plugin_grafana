@@ -1,5 +1,4 @@
 # **Alexander Zobnin**'s [Zabbix plugin for Grafana](https://grafana.com/grafana/plugins/alexanderzobnin-zabbix-app) compiled for **FreeBSD**.
-**Alexander Zobnin**'s [Zabbix plugin for Grafana](https://grafana.com/grafana/plugins/alexanderzobnin-zabbix-app) compiled for **FreeBSD**.
 
 I uploaded this compiled version of [alexanderzobnin-zabbix-app](https://github.com/alexanderzobnin/grafana-zabbix-app) for Grafana from my own need to compile it for FreeBSD since i love FreeBSD and i use grafana and zabbix in a FreeBSD server and although linux and windows binary versions of the plugin are available for the latest release, for FreeBSD there is none until today **(December 21, 2020)**.
 [Reference here](https://github.com/alexanderzobnin/grafana-zabbix/issues/1022), [and here](https://github.com/alexanderzobnin/grafana-zabbix/issues/1054#issuecomment-706676252)
