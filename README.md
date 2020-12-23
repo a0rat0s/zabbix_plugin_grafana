@@ -9,12 +9,12 @@ So i uploaded my compiled binary file [zabbix-plugin_freebsd_amd64](https://gith
 Compiled as Alexander Zobnin [recommends here](https://github.com/alexanderzobnin/grafana-zabbix/issues/1022#issuecomment-682366412)
 
 **Details:**<br>
-**Author of Zabbix plugin for Grafana:** Alexander Zobnin
+**Author of Zabbix plugin for Grafana:** Alexander Zobnin<br>
 
-**Compilation Details**
-**OS:** <FreeBSD 12.1-RELEASE>
-**Node.js** version: <node-14.13.0>
-**go** version: <go-1.15.6,1>
+**Compilation Details**<br>
+**OS:** <FreeBSD 12.1-RELEASE><br>
+**Node.js** version: <node-14.13.0><br>
+**go** version: <go-1.15.6,1><br>
 
-How to install:
+How to install:<br>
 Just copy **zabbix-plugin_freebsd_amd64** to **/var/db/grafana/plugins/alexanderzobnin-zabbix-app/** and start/restart Grafana service.
