@@ -1,10 +1,10 @@
 # zabbix_plugin_grafana
-**Alexander Zobnin**'s [Zabbix plugin version 4.0.2](https://grafana.com/grafana/plugins/alexanderzobnin-zabbix-app)  for **Grafana** version => **7.0 compiled** for **FreeBSD**.
+**Alexander Zobnin**'s [Zabbix plugin for Grafana](https://grafana.com/grafana/plugins/alexanderzobnin-zabbix-app) compiled for **FreeBSD**.
 
-I uploaded this compiled version of [alexanderzobnin-zabbix-app](https://github.com/alexanderzobnin/grafana-zabbix-app) for Grafana => 7.0 from my own need to compile it for FreeBSD since i love FreeBSD and i use grafana and zabbix in a FreeBSD server and although linux and windows binary versions of the plugin are available, for FreeBSD there is none until today **(December 21, 2020)**.
+I uploaded this compiled version of [alexanderzobnin-zabbix-app](https://github.com/alexanderzobnin/grafana-zabbix-app) for Grafana from my own need to compile it for FreeBSD since i love FreeBSD and i use grafana and zabbix in a FreeBSD server and although linux and windows binary versions of the plugin are available for the latest release, for FreeBSD there is none until today **(December 21, 2020)**.
 [Reference here](https://github.com/alexanderzobnin/grafana-zabbix/issues/1022), [and here](https://github.com/alexanderzobnin/grafana-zabbix/issues/1054#issuecomment-706676252)
 
-So i uploaded my compiled binary file [zabbix-plugin_freebsd_amd64-4.0.2.zip](https://github.com/a0rat0s/grafana-zabbix-freebsd/releases/download/4.0.2/zabbix-plugin_freebsd_amd64-4.0.2.zip) in case there is someone who wants to use it because it may be difficult for some to prepare the proper build environment e.g. being behind proxies with self-signed certs, difficulty to set up proper os and programs, etc.
+So i uploaded my compiled binary file in case there is someone who wants to use it because it may be difficult for some to prepare the proper build environment e.g. being behind proxies with self-signed certs, difficulty to set up proper os and programs, etc.
 
 Compiled as Alexander Zobnin [recommends here](https://github.com/alexanderzobnin/grafana-zabbix/issues/1022#issuecomment-682366412)
 
